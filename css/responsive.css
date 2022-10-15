@@ -1,0 +1,136 @@
+@media(min-width: 1200px){
+
+}
+@media(min-width: 992px) and (max-width: 1199px){
+    
+}
+@media(min-width: 768px) and (max-width: 991px){
+    
+}
+@media(min-width: 576px) and (max-width: 767px){
+
+}
+@media(max-width: 575px){
+
+    .row{
+        margin-left: 0;
+        margin-right: 0
+    }
+    .container{
+        max-width: 538px;
+    }
+    /* manu part start*/
+.menu_con button i{
+    color: #744fa0;
+}
+.menu_fix{
+    height: 50px;
+    margin-top: 0 !important;
+}
+.menu_fix a img{
+    height: 50px;
+}
+.menu_icon {
+	max-width: 95% !important;
+}
+.menu_full .navbar-nav{
+    float: right;
+    background: #9b1347;
+    border-radius: 5px;
+}
+button:focus {
+	outline: 1px dotted #744fa0;
+	outline: 5px auto -webkit-focus-ring-color;
+}
+.menu_full{
+    margin-top: 30px;
+}
+    /* manu part end*/
+
+/* banner part start*/
+.banner_text .btn2 {
+	margin-top: 15px;
+	margin-right: 50px;
+}
+.btn1 {
+	margin-left: 50px;
+}
+.banner_img {
+	padding: 245px 0 85px;
+}
+    /* banner part end*/
+
+    /* about part start*/
+#about_part {
+    padding-top: 50px;
+}
+.banner_p{
+    margin-left: 15px !important;
+}
+.about_img{
+    padding-top: 10px;
+}
+.fea_icn{
+    width: 35% !important;
+}
+.feature_text {
+	width: 80.5% !important;
+    margin-left: 27px;
+}
+#feature_part .feature_body img {
+	margin-left: 52px;
+}
+.feature_img{
+    width: 84%;
+}
+.fea_icn::after{
+    width: 90px !important;
+}
+.nav-link.active .fea_icn::after{
+    width: 160px !important;
+}
+.nav-link:hover .fea_icn::after{
+    width: 160px!important;
+}
+.feature_body {
+	padding-bottom: 10px;
+}
+    /* about part end*/    
+
+    /* screenshot part start*/
+.slider_img{
+    padding-right: 0!important;
+    padding-left: 0!important;
+}
+.s_img{
+    padding: 0 2px !important;
+}
+    /* screenshot part end*/
+
+    /* team part start*/
+.team_img ul {
+    width: 100% !important;
+    text-align: center;
+}
+.team_img ul li a .twi{
+    margin-right: 0 !important;
+}
+    /* team part end*/ 
+
+    /* user part start*/
+.user_feedback_text{
+    margin-left: -25px !important;
+	padding: 24px 0 26px !important;
+    width: 80% !important;
+
+}
+.user_text{
+    margin-left: 38px !important;
+}
+    /* user part end*/ 
+
+    /* about part start*/
+    /* about part end*/  
+
+
+}
